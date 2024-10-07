@@ -5,8 +5,8 @@ public class program18 {
         
     }  
 }
-class Main{
-    Main(){
+class Main67{
+    void Main(){
         String name = "rani";
         System.out.print("i love coding and programming");
     }
