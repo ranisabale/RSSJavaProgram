@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class method12 {
+public class  dmethod12 {
     public static void main(String arg[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number: ");
